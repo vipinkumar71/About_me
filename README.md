@@ -1,13 +1,13 @@
 # About_me
 About_me
 # Hello GitHub Visitors 👋
-## Welcome to my GitHub Profile	## Welcome to my GitHub Profile
-<h1 align = "center"> Hello 👋 I'm Vipin kumar </h1>	<h1 align = "center"> Hello 👋 I'm Vipin kumar </h1>
- <img src="https://media2.giphy.com/media/2wh5K6dS9glKGCKVbK/giphy.gif?cid=ecf05e47kcvlt9zkl30zlc81dha8sqg4b0m94qmrb19fasez&rid=giphy.gif&ct=g"  width="800"  align = 'center'>	 <img src="https://media2.giphy.com/media/2wh5K6dS9glKGCKVbK/giphy.gif?cid=ecf05e47kcvlt9zkl30zlc81dha8sqg4b0m94qmrb19fasez&rid=giphy.gif&ct=g"  width="800"  align = 'center'>
+## Welcome to my GitHub Profile	
+<h1 align = "center"> Hello 👋 I'm Vipin kumar </h1>	
+ <img src="https://media2.giphy.com/media/2wh5K6dS9glKGCKVbK/giphy.gif?cid=ecf05e47kcvlt9zkl30zlc81dha8sqg4b0m94qmrb19fasez&rid=giphy.gif&ct=g"  width="800"  align = 'center'>	 
 
 
- <p align="center"> </p>	 <p align="center"> </p>
-- 🔭 I’m currently working on python	- 🔭 I’m currently working on Python Developer at INTQTECHS IT Solutions
-- 🌱 I’m currently learning Python and MYSQL	- 🌱 I’m currently learning Python and MYSQL
-- 👯 I’m looking to collaborate on Open Source Projects.	- 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: vipinthakur3881@gmail.com (Linkedin, Twitter, Medium, Youtube and Facebook)	- 📫 How to reach me: vipinthakur3881@gmail.com (Linkedin, Twitter, Medium, Youtube and Facebook)
+ <p align="center"> </p>	 
+	- 🔭 I’m currently working on Python Developer at INTQTECHS IT Solutions
+- 🌱 I’m currently learning Python and MYSQL	
+- 👯 I’m looking to collaborate on Open Source Projects.	
+- 📫 How to reach me: vipinthakur3881@gmail.com (Linkedin, Twitter, Medium, Youtube and Facebook)	- 
