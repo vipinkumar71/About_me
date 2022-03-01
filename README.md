@@ -1,5 +1,3 @@
-# About_me
-
 # Hello GitHub Visitors 👋
 ## Welcome to my GitHub Profile	
 <h1 align = "center"> Hello 👋 I'm Vipin kumar </h1>	
@@ -8,8 +6,11 @@
 
  <p align="center"> </p>	 
 - 🔭 I’m currently working on Python Developer at INTQTECHS IT Solutions
+- 
 - 🌱 I’m currently learning Python and MYSQL	
-- 👯 I’m looking to collaborate on Open Source Projects.	
+- 
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 	
 - 📫 How to reach me: vipinthakur3881@gmail.com (Linkedin, Twitter, Medium, Youtube and Facebook)
 
 
