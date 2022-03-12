@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Intern at INTQTECHS IT Solutions 
 - 🌱 I’m currently learning Python and MYSQL	also web Framework Django.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: vipinthakur3881@gmail.com (<a href="https://www.linkedin.com/feed/">Linkedin<a>, Twitter, Medium, Youtube and Facebook)
+- 📫 How to reach me: Email=vipinthakur3881@gmail.com (<a href="https://www.linkedin.com/feed/">Linkedin</a>, <a href="https://twitter.com/home?lang=en">Twitter</a>, Medium, Youtube and <a href="https://www.facebook.com/home.php">Facebook</a>,)
 
 
 
